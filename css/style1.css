@@ -1,0 +1,180 @@
+#indexform{
+	width: 600px;
+	color: white;
+	padding-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	font-size: 16px;
+}
+#indexform div{
+	height: 25px;
+}
+#indexform p{
+	float: left;
+}
+#indexform div input{
+	float: right;
+	height: 20px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#indexform div select{
+	float: right;
+	height: 20px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	font-size: 13px;
+}
+#indexform div input:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#indexform div select:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#subjectform{
+	width: 600px;
+	color: white;
+	padding-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	font-size: 16px;
+	padding-top: 60px;
+}
+#subjectform div{
+	height: 40px;
+}
+#subjectform div input{
+	float: right;
+	height: 30px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#subjectform div select{
+	float: right;
+	height: 30px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	font-size: 13px;
+}
+#subjectform div input:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#subjectform div select:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#marksupform{
+	width: 1020px;
+	color: white;
+	padding-top: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	font-size: 16px;
+	color: white;
+}
+#marksupform div{
+	height: 25px;
+}
+#marksupform input{
+	height: 23px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#marksupform select{
+	height: 23px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	font-size: 13px;
+}
+#marksupform div input:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#marksupform div select:hover{
+	background-color: rgba(84,153,199,0.9);
+}
+#marksupform table{
+	color: white;
+	border-width: 2px;
+	border-color: rgba(71,128,173,1);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+#marksupform table tr td input{
+	height: 20px;
+}
+#marksdownform{
+	width: 300px;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	font-size: 16px;
+	color: white;
+	margin-top: 50px;
+}
+#marksdownform select{
+	height: 30px;
+	width: 145px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	font-size: 13px;
+}
+#marksdownformdiv{
+	margin-left: 320px;
+	margin-top: 50px;
+}
+#marksdownformdiv table{
+	color: white;
+	border-color: rgba(84,153,199,0.4);
+	border-width: 4px;
+}
+#marksdownformdiv table tr{
+	border-color: rgba(84,153,199,0.4);
+	border-width: 4px;
+}
+#stufetchform{
+	color: white;
+	margin-top: 30px;
+}
+#stufetchform select{
+	height: 30px;
+	width: 145px;
+	background-color: rgba(84,153,199,0.4);
+	border-width: 2px;
+	border-color: rgba(84,153,199,0.6);
+	font-size: 13px;
+}
+#stufetchtableoption tr td{
+	color: white;
+	width: 220px;
+	background-color: rgba(84,153,199,0.1);
+}
+#stufetchtableoption tr td input{
+	float: right;
+	margin-right: 50px;
+}
+#stutable{
+	color: white;
+	border-color: rgba(84,153,199,0.4);
+	border-width: 4px;
+	font-size: 13px;
+}
